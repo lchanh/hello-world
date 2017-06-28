@@ -1,3 +1,4 @@
 # hello-world
-self-study how to use github
+
 this is first comment to practice use github
+Additon: the second try to make differnece this file
